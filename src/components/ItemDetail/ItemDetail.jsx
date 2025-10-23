@@ -1,4 +1,4 @@
-import { useCartContext } from "../../context/CardContext/UseCartContext";
+import { useCartContext } from "../../context/CardContext/useCartContext";
 import { Item } from "../Item/Item";
 import "./ItemDetail.css";
 
