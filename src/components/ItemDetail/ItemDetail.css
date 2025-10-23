@@ -1,0 +1,11 @@
+main {
+  display: flex;
+  justify-content: center;   
+  align-items: flex-start;   
+  padding: 4rem 1rem;        
+  min-height: calc(100vh - 100px); 
+}
+
+.product-item {
+  margin-top: 1rem;
+}

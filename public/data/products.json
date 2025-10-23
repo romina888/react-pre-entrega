@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "name": "NBA 2K26 Standard",
+    "price": 46.325,
+    "category": "deporte",
+    "description": "NBA 2K26 eleva el realismo del básquet con gráficos de nueva generación, jugabilidad refinada y modos como Mi CARRERA, Mi NBA y Mi EQUIPO.",
+    "imageUrl": "/images/nba-2k26.jpg"
+  },
+  {
+    "id": "2",
+    "name": "EA SPORTS FC 26",
+    "price": 50.435,
+    "category": "deporte",
+    "description": "La nueva temporada del fútbol llega con modos actualizados, miles de jugadores oficiales y una jugabilidad más realista y dinámica.",
+    "imageUrl": "/images/fc-26.jpg"
+  },
+  {
+    "id": "3",
+    "name": "F1 25 Standard",
+    "category": "deporte",
+    "price": 63.555,
+    "description": "Viví la temporada 2025 con nuevas decisiones estratégicas, modo historia mejorado y toda la emoción de la Fórmula 1.",
+    "imageUrl": "/images/f1-25.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Ghost of Yotei",
+    "category": "accion",
+    "price": 73.335,
+    "description": "Una historia épica de venganza en el norte de Japón, tres siglos después de Ghost of Tsushima.",
+    "imageUrl": "/images/ghost-of-yotei.jpg"
+  },
+  {
+    "id": "5",
+    "name": "DRAGON BALL Sparking ZERO",
+    "category": "accion",
+    "price": 58.885,
+    "description": "Reviví las batallas legendarias de Dragon Ball con un sistema de combate renovado y gráficos de nueva generación.",
+    "imageUrl": "/images/dragon-ball.jpg"
+  },
+  {
+    "id": "6",
+    "name": "SILENT HILL 2",
+    "category": "accion",
+    "price": 75.735,
+    "description": "James regresa a Silent Hill tras recibir una carta de su esposa fallecida, enfrentando el horror y sus propios recuerdos.",
+    "imageUrl": "/images/silent-hill-2.jpg"
+  },
+  {
+    "id": "7",
+    "name": "SONIC SUPERSTARS",
+    "category": "aventura",
+    "price": 40.145,
+    "description": "La clásica acción 2D regresa con gráficos vibrantes, nuevos poderes y modo cooperativo para hasta cuatro jugadores.",
+    "imageUrl": "/images/sonic-superstars.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Elden Ring",
+    "category": "aventura",
+    "price": 51.555,
+    "description": "Explorá un vasto mundo abierto lleno de desafíos, secretos y combates épicos en las Tierras Intermedias.",
+    "imageUrl": "/images/elden-ring.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Crash Bandicoot 4: It’s About Time",
+    "category": "aventura",
+    "price": 32.725,
+    "description": "Nuevas habilidades, dimensiones locas y todo el humor clásico de Crash en una aventura llena de acción.",
+    "imageUrl": "/images/crash-bandicoot-4.jpg"
+  }
+  
+]
